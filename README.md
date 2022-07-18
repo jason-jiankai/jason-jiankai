@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jason-jiankai
 - 👀 I’m interested in coding, history, video games
-- 🌱 I’m currently a PhD candidate from CIS of Unimelb
+- 🌱 I’m currently a PhD student from CIS of Unimelb
 - 📫 I'm studying on privacy and robustness of machine learning models.
 
 <!---
