@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jason-jiankai
 - 👀 I’m interested in coding, history, video games
-- 🌱 I’m currently a PhD student from CIS of Unimelb
-- 📫 I study privacy and robustness of machine learning models.
+- 🌱 I’m a PhD student from CIS of Unimelb
+- 📫 I study the privacy and robustness of the machine learning models.
 
 <!---
 jason-jiankai/jason-jiankai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
