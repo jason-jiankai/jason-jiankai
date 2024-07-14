@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jason-jiankai
+- 👋 Hi, I’m @jasonj
 - 👀 I’m interested in coding, history, video games
 - 🌱 I’m a PhD student from FEIT of Unimelb
 - 📫 I study privacy and robustness of machine learning models.
